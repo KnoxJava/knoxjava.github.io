@@ -1,2 +1,3 @@
-# knoxjava.github.io
-Website for KnoxJava User's Group
+# Website for KnoxJava
+
+Files for the KnoxJava Users' Group website. Visit the website at http://knoxjava.org.
