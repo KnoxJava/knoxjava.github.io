@@ -7,20 +7,18 @@
 }
 
 .jumbotron {
-    background-color: rgb(17,108,214);
+    background-color: rgb(17, 108, 214);
     color: white;
     letter-spacing: 1px;
 }
-
 
 /* Styles
 ------------------------------------------------- */
 
 .logo-img-responsive {
-  max-width: 150px; 
-  max-height: auto; 
+    max-width: 150px;
+    max-height: auto;
 }
-
 
 a {
     font-weight: bold;
