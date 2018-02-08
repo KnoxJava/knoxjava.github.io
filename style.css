@@ -4,7 +4,6 @@
 .col-md-12 {
     float: none;
     margin: 0 auto;
-    max-width: 700px;
 }
 
 .jumbotron {
@@ -13,8 +12,15 @@
     letter-spacing: 1px;
 }
 
+
 /* Styles
 ------------------------------------------------- */
+
+.logo-img-responsive {
+  max-width: 150px; 
+  max-height: auto; 
+}
+
 
 a {
     font-weight: bold;
