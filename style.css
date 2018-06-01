@@ -10,6 +10,7 @@
     background-color: rgb(17, 108, 214);
     color: white;
     letter-spacing: 1px;
+    padding: 0;
 }
 
 /* Styles
@@ -17,7 +18,7 @@
 
 .logo-img-responsive {
     max-width: 150px;
-    max-height: auto;
+    vertical-align: bottom;
 }
 
 a {
